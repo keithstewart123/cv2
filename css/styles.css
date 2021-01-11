@@ -1,4 +1,5 @@
 body {
+  background-color: #FFFFFF;
   color: #40514E;
   margin: 0;
   text-align: center;
@@ -9,24 +10,24 @@ h1 {
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
   font-size: 5.625rem;
-  color: #66BFBF;
+  color: #11698E;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
-  color: #66BFBF;
+  color: #11698E;
   font-weight: normal;
   margin: 25px auto 50px auto;
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
-  color: #11999E;
+  color: #11698E;
 }
 
 hr {
-  border-color: #11999e;
+  border-color: #11698e;
   border-style: none;
   border-top-style: dotted;
   border-width: 8px;
@@ -36,16 +37,16 @@ hr {
 
 a {
   text-decoration: none;
-  color: #11999E;
+  color: #11698E;
   font-size: 1.25rem;
 }
 
 a:hover {
-  color: #EAF6F6;
+  color: lightBlue;
 }
 
 .top-container {
-  background-color: #EAF6F6;
+  background-color: #45aaf2;
   width: 100%;
   height: auto;
   padding-top: 100px;
@@ -57,7 +58,7 @@ a:hover {
 }
 
 .bottom-container {
-  background-color: #66BFBF;
+  background-color: #45aaf2;
   padding: 40px 0;
 }
 
@@ -71,8 +72,8 @@ a:hover {
 .top-cloud {
   width: 22%;
   position: absolute;
-  top: 200px;
-  right: 75px;
+  top: 400px;
+  right: 50px;
 }
 
 .keith-photo {
@@ -107,12 +108,12 @@ a:hover {
 }
 
 .BUTTON_CNR {
-  background: #66BFBF;
-  background-image: -webkit-linear-gradient(top, #66BFBF, #11999E);
-  background-image: -moz-linear-gradient(top, #66BFBF, #11999E);
-  background-image: -ms-linear-gradient(top, #66BFBF, #11999E);
-  background-image: -o-linear-gradient(top, #66BFBF, #11999E);
-  background-image: -webkit-gradient(to bottom, #66BFBF, #11999E);
+  background: #45aaf2;
+  background-image: -webkit-linear-gradient(top, #45aaf2, #11698E);
+  background-image: -moz-linear-gradient(top, #45aaf2, #11698E);
+  background-image: -ms-linear-gradient(top, #45aaf2, #11698E);
+  background-image: -o-linear-gradient(top, #45aaf2, #11698E);
+  background-image: -webkit-gradient(to bottom, #45aaf2, #11698E);
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;
@@ -132,7 +133,7 @@ a:hover {
 }
 
 .copy {
-  color: #EAF6F6;
+  color: #FFFFFF;
   font-size: 0.75rem;
   padding: 20px 0 0 0;
 }
