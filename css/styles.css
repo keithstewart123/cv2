@@ -83,6 +83,11 @@ a:hover {
   left: 15px;
 }
 
+.landmarks {
+  margin: 100px auto 0 auto;
+  width: 50%;
+}
+
 .keith-photo {
   border-radius: 100%;
   width: 20%;
@@ -150,8 +155,4 @@ a:hover {
   margin: auto;
   text-align: left;
   line-height: 2;
-}
-
-.landmarks {
-  margin: 100px auto 0 auto;
 }
