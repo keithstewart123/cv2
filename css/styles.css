@@ -65,8 +65,8 @@ a:hover {
 .bottom-cloud {
   width: 18%;
   position: fixed;
-  bottom: 300px;
-  left: 70px;
+  top: 550px;
+  left: 80px;
   opacity: .7;
 }
 
@@ -74,15 +74,15 @@ a:hover {
   width: 22%;
   position: fixed;
   top: 400px;
-  right: 50px;
+  right: 30px;
   opacity: .7;
 }
 
 .balloon {
   width: 20%;
   position: fixed;
-  top: 75px;
-  left: 15px;
+  top: 100px;
+  left: 5px;
 }
 
 .landmarks {
