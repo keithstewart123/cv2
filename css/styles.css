@@ -1,5 +1,5 @@
 body {
-  background-color: #FFFFFF;
+  background-color: #CCFF66;
   color: #40514E;
   margin: 0;
   text-align: center;
@@ -67,6 +67,7 @@ a:hover {
   position: fixed;
   bottom: 300px;
   left: 70px;
+  opacity: .7;
 }
 
 .top-cloud {
@@ -74,6 +75,7 @@ a:hover {
   position: fixed;
   top: 400px;
   right: 50px;
+  opacity: .7;
 }
 
 .balloon {
