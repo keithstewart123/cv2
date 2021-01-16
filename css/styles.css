@@ -42,7 +42,7 @@ a {
 }
 
 a:hover {
-  color: #CCFF66;
+  color: #7F821C;
 }
 
 .top-container {
@@ -135,7 +135,7 @@ a:hover {
   line-height: 0;
   color: #FFFFFF;
   font-family: Arial;
-  width: 150px;
+  width: 120px;
   font-size: 26px;
   font-weight: 100;
   padding: 20px;
